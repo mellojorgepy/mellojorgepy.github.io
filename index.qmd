@@ -1,0 +1,17 @@
+---
+title: "Jorge Daniel Mello-Román"
+image: perfil.jpg
+about:
+  template: trestles
+  image-width: 14em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/mellojorgepy
+    - text: ORCID
+      href: https://orcid.org/0000-0003-2821-7538
+---
+
+Soy investigador en análisis de datos educativos. Doctor por la Universidad Complutense de Madrid. Vicedecano de la Facultad de Ciencias Exactas y Tecnológicas de la Universidad Nacional de Concepción (Paraguay) y Presidente de la Sociedad Matemática Paraguaya. Consultor para la mejora de la educación matemática
+
+Mi investigación se centra en métodos cuantitativos aplicados a la investigación educativa (modelos multinivel, validación de instrumentos de medición, modelos predictivos basados en aprendizaje automático, etc.).
