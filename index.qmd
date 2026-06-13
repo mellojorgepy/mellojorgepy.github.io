@@ -10,6 +10,13 @@ about:
       href: https://github.com/mellojorgepy
     - text: ORCID
       href: https://orcid.org/0000-0003-2821-7538
+    - text: Google Scholar
+      href: https://scholar.google.es/citations?user=C1T8i1QAAAAJ&hl=es
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jorge-mello-b35752314/
+    - text: Bluesky
+      href: https://bsky.app/profile/jorgemellopy.bsky.social
 ---
 
 Soy investigador en análisis de datos educativos. Doctor por la Universidad Complutense de Madrid. Vicedecano de la Facultad de Ciencias Exactas y Tecnológicas de la Universidad Nacional de Concepción (Paraguay) y Presidente de la Sociedad Matemática Paraguaya. Consultor para la mejora de la educación matemática.
