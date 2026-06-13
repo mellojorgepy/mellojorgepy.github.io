@@ -12,5 +12,33 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publicaciones.html",
+    "href": "publicaciones.html",
+    "title": "Publicaciones",
+    "section": "",
+    "text": "(en construcción)"
+  },
+  {
+    "objectID": "publicaciones.html#educación-matemática-y-equidad",
+    "href": "publicaciones.html#educación-matemática-y-equidad",
+    "title": "Publicaciones",
+    "section": "Educación matemática y equidad",
+    "text": "Educación matemática y equidad\nMello-Román, J. D., Maydeu-Olivares, A., & Hernández, A. (2026). Opportunity to learn and widening gaps: School-level drivers of equity in Paraguay’s Grade-3 mathematics (SNEPE 2015–2018). School Effectiveness and School Improvement. https://doi.org/10.1080/09243453.2026.2682759\nMello-Román, J. D., Escobar-Torres, R. D., Segura, M., de la Iglesia Villasol, M. C., Giménez, S., Hernández, A., Mello-Román, J. C., & Pérez Estigarribia, P. E. (2025). Predictores claves del abandono escolar en Paraguay: Un análisis de datos masivos. Revista de Educación, 1(409), 162–181. https://doi.org/10.4438/1988-592X-RE-2025-409-686\nMello-Román, J. D., & Gómez-Chacón, I. M. (2022). Creencias y rendimiento académico en matemáticas en el ingreso a carreras de ingeniería. Aula Abierta, 51(4), 407–415. https://doi.org/10.17811/rifie.51.4.2022.407-415\nMello-Román, J. D., & Hernández Estrada, A. (2019). Un estudio sobre el rendimiento académico en Matemáticas. Revista Electrónica de Investigación Educativa, 21(3). https://doi.org/10.24320/redie.2019.21.e29.2090"
+  },
+  {
+    "objectID": "publicaciones.html#aprendizaje-automático-y-predicción-educativa",
+    "href": "publicaciones.html#aprendizaje-automático-y-predicción-educativa",
+    "title": "Publicaciones",
+    "section": "Aprendizaje automático y predicción educativa",
+    "text": "Aprendizaje automático y predicción educativa\nSánchez-Sánchez, A. M., Mello-Román, J. D., Segura, M., & Hernández, A. (2024). Identifying the determinants of academic success: A machine learning approach in Spanish higher education. Systems, 12(10), 425. https://doi.org/10.3390/systems12100425\nSegura, M., Mello-Román, J. D., & Hernández, A. (2022). Machine learning prediction of university student dropout: Does preference play a key role? Mathematics, 10(18), 3359. https://doi.org/10.3390/math10183359"
+  },
+  {
+    "objectID": "publicaciones.html#métodos-estadísticos-y-aplicaciones",
+    "href": "publicaciones.html#métodos-estadísticos-y-aplicaciones",
+    "title": "Publicaciones",
+    "section": "Métodos estadísticos y aplicaciones",
+    "text": "Métodos estadísticos y aplicaciones\nMello-Román, J. D., & Martínez-Amarilla, A. (2025). COVID-19 data analysis: The impact of missing data imputation on supervised learning model performance. Computation, 13(3), 70. https://doi.org/10.3390/computation13030070\nMello-Román, J. D., & Hernández, A. (2021). Improved predictive ability of KPLS regression with memetic algorithms. Mathematics, 9(5), 506. https://doi.org/10.3390/math9050506\nMello-Román, J. D., & Hernández, A. (2020). KPLS optimization with nature-inspired metaheuristic algorithms. IEEE Access, 8, 157482–157492. https://doi.org/10.1109/access.2020.3019771\nMello-Román, J. D., Mello-Román, J. C., Gómez-Guerrero, S., & García-Torres, M. (2019). Predictive models for the medical diagnosis of dengue: A case study in Paraguay. Computational and Mathematical Methods in Medicine, 2019, 7307803. https://doi.org/10.1155/2019/7307803"
   }
 ]
