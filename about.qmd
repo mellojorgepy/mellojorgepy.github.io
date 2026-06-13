@@ -1,9 +1,31 @@
 ---
-title: "About"
+title: "Sobre mí"
+image: perfil-informal.jpg
+about:
+  template: trestles
+  image-width: 16em
+  image-shape: rounded
 ---
 
-About this site
+Mi camino empezó en la Universidad Nacional de Asunción, donde me formé
+en Matemática Estadística. De ahí seguí hacia la estadística y la
+investigación operativa en la UNED, y más tarde al doctorado en la
+Universidad Complutense de Madrid, donde trabajé en métodos de regresión
+y aprendizaje automático. Con el tiempo, esos métodos encontraron su
+propósito: aplicarlos a las preguntas que más me importan sobre la
+educación en mi país y en América Latina, así como a otros problemas
+sociales.
 
-```{r}
-1 + 1
-```
+Me interesa entender las diferencias de aprendizaje y qué podemos hacer
+para cerrarlas. Trabajo tanto con datos a gran escala como con datos más
+pequeños de naturaleza experimental. Empleo modelos de la estadística
+"clásica" —principalmente los enfocados en la medición de constructos—,
+pero también me aventuro en los datos masivos y en la ciencia detrás de
+su análisis, implementando modelos de aprendizaje automático. Pero, detrás de cada modelo lo que me mueve es una convicción simple: que todos tengamos la oportunidad de aprender. Esa es
+la motivación que sostiene mi trabajo en investigación.
+
+Fuera del trabajo, mi familia es mi mundo. Soy hincha de la Selección
+Paraguaya de fútbol y del Club Olimpia, y juego al fútbol de salón
+regularmente —aunque lo haga terriblemente mal—. Me gusta la música en
+toda su dimensión, pero tengo un cariño especial por el rock, porque me
+recuerda a mi juventud.
