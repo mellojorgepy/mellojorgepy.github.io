@@ -2,13 +2,15 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "Jorge Daniel Mello-Román"
+  title: "Jorge D. Mello-Román"
   navbar:
     left:
       - href: index.qmd
         text: Inicio
       - href: publicaciones.qmd
         text: Publicaciones
+      - href: cv.qmd
+        text: CV
       - href: about.qmd
         text: Sobre mí
 

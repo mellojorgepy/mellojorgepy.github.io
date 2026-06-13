@@ -1,0 +1,65 @@
+---
+title: "Currículum Vitae"
+---
+
+Investigador-docente en la Facultad de Ciencias Exactas y Tecnológicas
+de la Universidad Nacional de Concepción (Paraguay). Doctor por la
+Universidad Complutense de Madrid. Mi trabajo integra aprendizaje
+automático, análisis multivariante y modelos de variables latentes,
+aplicados a problemas educativos, sociales y biomédicos.
+
+## Formación académica
+
+**Doctorado en Ingeniería Matemática, Estadística e Investigación
+Operativa (IMEIO)** — Universidad Complutense de Madrid (España), 2021.
+Tesis: *Optimización de la regresión Kernel Partial Least Squares*.
+Director: Dr. Adolfo Hernández Estrada.
+
+**Máster en Matemáticas Avanzadas**, especialidad en Estadística e
+Investigación Operativa — UNED (España), 2013. Tesis: *Modelos de
+clasificación basados en máquinas de vectores soporte*.
+
+**Licenciatura en Ciencias**, especialidad en Matemática Estadística —
+Universidad Nacional de Asunción (Paraguay), 2006.
+
+## Posición actual
+
+**Profesor-Investigador**, Facultad de Ciencias Exactas y Tecnológicas,
+Universidad Nacional de Concepción (Paraguay). Desde 2014.
+
+Líneas de trabajo: estadística, ciencia de datos, aprendizaje
+automático, métodos cuantitativos en ciencias sociales y educación STEM.
+
+## Trayectoria profesional
+
+**Investigador postdoctoral** — University of South Carolina (EE. UU.),
+2023. Estancia en métodos cuantitativos aplicados a las ciencias
+sociales, bajo la supervisión del Dr. Alberto Maydeu-Olivares.
+
+**Asesor de la Unidad Técnica de Estadísticas de Comercio Exterior** —
+MERCOSUR (Uruguay), 2018–2019. Desarrollo de herramientas para el
+procesamiento, análisis y visualización de estadísticas regionales de
+comercio.
+
+**Secretario General** — Universidad Nacional de Concepción (Paraguay),
+2007–2013. Gestión documental y organizativa durante los años
+fundacionales de la universidad.
+
+## Proyectos de investigación
+
+**Determinantes del rendimiento académico y el abandono en Educación
+Secundaria en Paraguay** (Ref. PINV01-1277). CONACYT (Paraguay),
+2024–2025. *Investigador Principal.*
+
+**Determinantes del rendimiento académico y el abandono en educación
+superior: impacto de plataformas educativas y redes sociales** (Ref.
+PID2020-116293RB-I00). Ministerio de Ciencia e Innovación (España),
+2021–2024. *Miembro del equipo.*
+
+## Servicio y representación
+
+Vicedecano de la Facultad de Ciencias Exactas y Tecnológicas (UNC).
+Presidente de la Sociedad Matemática Paraguaya. Representante de
+Paraguay ante la International Commission on Mathematical Instruction
+(ICMI). Miembro del Consejo Nacional de Ciencia y Tecnología (CONACYT),
+2019–2021.
